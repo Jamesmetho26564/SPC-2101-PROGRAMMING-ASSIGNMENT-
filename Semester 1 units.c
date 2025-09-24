@@ -20,5 +20,7 @@ printf("5. Discrete Mathematics (spm2100)\n");
 printf("6. Mathematics for Science (spm2104)\n");
 printf("7.  Physics (sph2101)\n");
 printf("8. Introduction to programming and problem solving (spc 2101)\n");
+   
+ return 0;
 }
     
