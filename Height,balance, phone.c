@@ -22,6 +22,7 @@ int   number;
 printf(" enter your  number\n");
 scanf ("%d",& number);
 printf ("your phone is %d", number);
+return 0;
 }
 
 
