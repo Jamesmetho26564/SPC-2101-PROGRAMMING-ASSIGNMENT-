@@ -1,6 +1,6 @@
 // A program to calculate total water bill
 /*
-Name: James METHO 
+Name:METHO JAMES KITHUKA 
 Registration No:CT101/G/26564/25
 Date:30/09/2025
 
