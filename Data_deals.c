@@ -2,6 +2,7 @@
 Name:METHO JAMES KITHUKA
 Reg no:CT101/G/26564/25
 date:1/10/2025
+Description:A program showing data deals
 */
 #include<stdio.h>
 int main(){ 
