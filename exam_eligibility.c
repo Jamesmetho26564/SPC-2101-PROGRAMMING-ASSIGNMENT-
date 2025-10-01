@@ -1,6 +1,6 @@
 // A program to check student eligibility for final exam 
 /*
-Name: James METHO 
+Name: JAMES KITHUKA METHO 
 Registration No:CT101/G/26564/25
 Date:30/09/2025
 
