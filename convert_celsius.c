@@ -1,4 +1,5 @@
-NAME:MethoJAMES Kithu
+/*
+NAME:MethoJAMES Kithuka
 REG NO:CT101/G/26564/25
 DESCRIPTION:a program that converts temperature from fahreheit to celcius
 */
